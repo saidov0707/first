@@ -1,0 +1,173 @@
+*{
+    margin: 0;
+}
+.menu{
+    font-size: 2em;
+    text-align: end;    
+    padding: 30px;
+    opacity: 0.6;
+}
+.continer{
+    background-color: #FFFFFF;
+}
+.top-continer{
+    text-align: center;
+    height: 40vh;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+.text-top{
+    opacity: 0.6;
+}
+.text-top h1{
+    font-size: 40px;
+    margin-bottom: 25px;
+    font-weight: normal;
+}
+.text-top h4{
+    font-size: 20px;
+    margin-bottom: 25px;
+    font-weight: 600;
+}
+.text-top h5{
+    width: 50%;
+    margin: auto;
+    padding: 10px;
+    background-color: black;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 300;
+}
+.text-top a{
+    text-decoration: none;
+    color: #FFFFFF;
+}
+.text-top a:hover{
+    color: black;
+}
+.text-top h5:hover{
+    opacity: 0.7;
+    background-color: #dedddd;
+    color: black;
+    border: none;
+}
+
+.im{
+    margin-bottom: -7px;
+}
+.bottom-continer{
+    margin: 80px 0;
+    display: flex;
+}
+.bottom1{
+    width: 33%;
+}
+.image1{
+    width: 100%;
+    height: 110vh;
+}
+.image2{
+    width: 100%;
+    height: 35vh;
+}
+.image2{
+    width: 100%;
+    height: 35vh;
+}
+.image3{
+    width: 100%;
+    height: 20vh;
+}
+.image4{
+    width: 100%;
+    height: 70vh;
+}
+.image5{
+    width: 100%;
+    height: 45vh;
+}
+.image6{
+    width: 100%;
+    height: 20vh;
+}
+
+.bottom2{
+    width: 33%;
+} 
+
+.image7{
+    width: 100%;
+    height: 30vh;
+}
+.image8{
+    width: 100%;
+    height: 22vh;
+}
+.image9{
+    width: 100%;
+    height: 50vh;
+}
+.image10{
+    width: 100%;
+    height: 50vh;
+}
+.image11{
+    width: 100%;
+    height: 110vh;
+}
+.image12{
+    width: 100%;
+    height: 45vh;
+}
+.image13{
+    width: 100%;
+    height: 20vh;
+}
+
+.bottom3{
+    width: 33%;
+}
+
+.image13{
+    width: 100%;
+    height: 20vh;
+}
+.image14{
+    width: 100%;
+    height: 35vh;
+}
+.image15{
+    width: 100%;
+    height: 70vh;
+}
+.image16{
+    width: 100%;
+    height: 65vh;
+}
+.image17{
+    width: 100%;
+    height: 45vh;
+}
+.image18{
+    width: 100%;
+    height: 65vh;
+}
+.icon{
+    padding: 5px;
+    font-size: 25px;
+    opacity: 0.6;
+}
+.text{
+    opacity: 0.6;
+}
+.icon-body{
+    background-color: #dedddd;
+    padding: 7% 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+a{
+    color: black;
+}
